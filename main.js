@@ -12,4 +12,6 @@ let divisione = (firstNumber / secondNumber);
 
 let potenza = (firstNumber ** secondNumber);
 
-console.log(somma, differenza, moltiplicazione, divisione, potenza);
+console.log("Con i numeri da te scelti i risultati sono: somma = " + somma, 
+    "Differenza = " + differenza, "Moltiplicazione = " + moltiplicazione, 
+    "divisione = " + divisione,"potenza = " + potenza);
